@@ -1,11 +1,4 @@
 # Etablissement_Scolaire_JAVA_POO
-Voici l'énoncé des différents projets possibles pour le travail personnel à défendre à l'examen.
-
-Le projet peut être fait en C# ou en Java.
-Un projet ne peut être réalisé que par une seule personne pour un langage de programmation donné.
-Il faut faire au plus vite un petit dossier d'analyse : ce qui est demandé, quels sont les besoins, quelles sont les solutions, graphes "uml-like".
-Vous pouvez me soumettre votre propre projet après me l'avoir présenté.
-Voici les projets :
 
 Etablissement scolaire
 
@@ -21,7 +14,6 @@ Les cursus scolaires
 Les présences
 Les certificats médicaux
  
-
 1 cours est donné par 1 ou plusieurs profs
 
 1 prof donne 1 ou plusieurs cours
